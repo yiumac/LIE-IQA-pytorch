@@ -14,3 +14,5 @@ Quality Assessment for Low-light Enhanced Image
 <img src="fig/optim_result_github.png" width="800" />
 
 
+#### references
+Guo, Chunle, et al. "Zero-reference deep curve estimation for low-light image enhancement." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
