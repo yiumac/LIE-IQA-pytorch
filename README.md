@@ -1,7 +1,6 @@
 # LE-IQA
 Quality Assessment for Low-light Enhanced Image
 
-# code is coming soon
 
 ## Quality Optimization for Low-light Image Enhancement
 
