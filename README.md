@@ -8,7 +8,7 @@ Quality Assessment for Low-light Enhanced Image
 + the performance on IQA Dataset
   + LIVE, MDID, CSIQ
   
-<img src="fig/performance-IQA-Dataset.png" width="500" />
+<img src="fig/performance-IQA-Dataset.png" width="800" />
   
 ## Quality Optimization for Low-light Image Enhancement
 
