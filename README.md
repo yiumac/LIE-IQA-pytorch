@@ -28,4 +28,5 @@ Quality Assessment for Low-light Enhanced Image
 
 #### references
 [1]Guo, Chunle, et al. "Zero-reference deep curve estimation for low-light image enhancement." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020.
+
 [2]Kwon, Dokyeong, Guisik Kim, and Junseok Kwon. "DALE: Dark Region-Aware Low-light Image Enhancement." arXiv preprint arXiv:2008.12493 (2020).
