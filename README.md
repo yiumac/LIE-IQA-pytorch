@@ -1,22 +1,22 @@
 # LE-IQA
 Quality Assessment for Low-light Enhanced Image
 
-+ the performance on LE-IQA TEST dataset
++ Performance on LE-IQA TEST dataset
 
   <img src="fig/performance-LE-IQA-Dataset.png" width="500" />
 
-+ the performance on IQA Dataset
++ Performance on IQA Dataset
   + LIVE, MDID, CSIQ
   
   <img src="fig/performance-IQA-Dataset.png" width="800" />
   
 ## Quality Optimization for Low-light Image Enhancement
 
-+ optimization framework
++ Optimization framework
 
   <img src="fig/optim_framework_github.png" width="800" />
 
-+ the quality optimization result
++ Qualitative comparison of the quality optimization result
   + Zero-DCE[1]
 
   <img src="fig/optim_result_github.png" width="800" />
@@ -24,6 +24,10 @@ Quality Assessment for Low-light Enhanced Image
   + DALE[2]
 
   <img src="fig/DALE-Optimization.png" width="800" />
+
++ Quantitative comparison of the quality optimization result
+
+<img src="fig/quantitative_comparison.png" width="800" />
 
 
 #### references
