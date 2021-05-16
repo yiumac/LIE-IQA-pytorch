@@ -19,15 +19,16 @@ Quality Assessment for Low-light Enhanced Image
 + Qualitative comparison of the quality optimization result
   + Zero-DCE[1]
 
-  <img src="fig/optim_result_github.png" width="800" />
+   <img src="fig/optim_result_github.png" width="800" />
 
   + DALE[2]
 
-  <img src="fig/DALE-Optimization.png" width="800" />
+   <img src="fig/DALE-Optimization.png" width="800" />
+
 
 + Quantitative comparison of the quality optimization result
 
-<img src="fig/quantitative_comparison.png" width="800" />
+ <img src="fig/quantitative_comparison.png" width="500" />
 
 
 #### references
