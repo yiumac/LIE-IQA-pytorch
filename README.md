@@ -23,7 +23,7 @@ Quality Assessment for Low-light Enhanced Image
 
   + DALE[2]
 
-  <img src="fig/DALE-Optimization.png.png" width="800" />
+  <img src="fig/DALE-Optimization.png" width="800" />
 
 
 #### references
