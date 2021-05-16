@@ -29,7 +29,7 @@ Quality Assessment for Low-light Enhanced Image
 + Quantitative comparison of the quality optimization result
   + SSIM, NIQE, DISTS, hyperIQA and our LE-IQA
 
-  <img src="fig/quantitative_comparison.png" width="500" />
+  <img src="fig/quantitative_comparison_result.png" width="500" />
 
 
 #### references
