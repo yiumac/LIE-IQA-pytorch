@@ -1,7 +1,7 @@
-# LE-IQA
+# LIE-IQA
 Quality Assessment for Low-light Enhanced Image
 
-+ Performance on LE-IQA TEST dataset
++ Performance on LIE-IQA TEST dataset
 
   <img src="fig/performance-LE-IQA-Dataset.png" width="500" />
 
