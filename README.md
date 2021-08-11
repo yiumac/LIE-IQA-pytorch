@@ -4,7 +4,7 @@ The [Pytorch](https://pytorch.org/) implementation of LIE-IQA.
 
 You can get the [MindSpore](https://www.mindspore.cn/) implementation here [LIE-IQA-mindspore](https://github.com/yiumac/LIE-IQA-mindspore). It is worth noting that the MindSpore implementation of Image Intrinsic Decomposition (IID) Module is different from the Pytorch implementation , but there is not much difference in performance. Please refer to the specific code for details.
 
-The code on both Pytorch and MindSpore will be released soon.
+The code on Pytorch will be released soon.
 
 ### Requirements
 
